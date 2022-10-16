@@ -10,4 +10,6 @@
 ### - false
 ### - intn where "n" is the number of bits.
 ### - step
+### - equals
+### - is
 ### - TODO...
