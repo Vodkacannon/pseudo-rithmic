@@ -3,10 +3,10 @@ bool t = true
 
 if not t 
 {
-  display(true.english)
+  display(true)
 }
 
 if not f
 {
-  display(false)
+  display(false.english)
 }
