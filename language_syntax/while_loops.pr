@@ -21,7 +21,7 @@ while sitting
   display(countdown)
   countdown.step(-1)
   
-  if countdown is 0
+  if countdown equals 0
   {
     sitting = false
   }
