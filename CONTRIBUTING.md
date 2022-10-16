@@ -1,4 +1,5 @@
 # Contributing
+## Feel free to contribute algorithms.
 ## Pseudo-rithmic uses ".pr" as a file-type.
 
 ## Keywords:
