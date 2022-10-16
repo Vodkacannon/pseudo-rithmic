@@ -1,0 +1,11 @@
+float16 = 42
+
+switch f
+{
+  case 0:
+    display("")
+  case 3.5:
+    display("The answer to life, the universe and everything.")
+   default:
+    display("Non-special.")
+}
