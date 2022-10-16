@@ -1,7 +1,7 @@
-bool f = false
 bool t = true
+bool f = false
 
-if not t 
+if t 
 {
   display(true.word)
 }
@@ -9,4 +9,9 @@ if not t
 if not f
 {
   display(false)
+}
+
+if t and not f 
+{
+  display("is t and not f")
 }
