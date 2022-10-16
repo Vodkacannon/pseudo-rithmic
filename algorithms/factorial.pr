@@ -1,1 +1,13 @@
+##
+Calculate the factorial of an integer.
+Factorials are multiplications of an integer n from n to 1.
+We can skip multiplying by 1, since it gives the same answer.
+##
 
+int128 factorial(int128 argument)
+{
+  for
+  {
+  
+  }
+}
