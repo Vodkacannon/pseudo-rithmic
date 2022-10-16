@@ -4,8 +4,8 @@
 ## Keywords:
 ### - for
 ### - while
-- if
-- true
-- false
-- intn where "n" is the number of bits.
-- TODO...
+### - if
+### - true
+### - false
+### - intn where "n" is the number of bits.
+### - TODO...
