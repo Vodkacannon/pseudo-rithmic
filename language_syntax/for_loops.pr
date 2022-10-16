@@ -1,0 +1,19 @@
+for char c in range(0, 9): s.advance()
+{
+  display(c)
+}
+
+for short s in range(s.min, s.max): s.advance(1)
+{
+  display(s)
+}
+
+for int32 i in range(i.min, i.max): s.advance(2)
+{
+  display(-i)
+}
+
+for int64 i in range(i.max, i.min): s.advance(-1)
+{
+  display(nth_root_of_x(2, i))
+}
