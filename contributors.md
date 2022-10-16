@@ -1,2 +1,2 @@
-# Top contributors:
-### - TODO.
+# Top 10 contributors:
+### - Vodkacannon (Armend Veseli).
