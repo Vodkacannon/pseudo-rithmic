@@ -1,0 +1,12 @@
+bool f = false
+bool t = true
+
+if not t 
+{
+  display(true.word)
+}
+
+if not f
+{
+  display(false)
+}
