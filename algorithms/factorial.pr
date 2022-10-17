@@ -6,8 +6,17 @@ We can skip multiplying by 1, since it gives the same answer.
 
 int128 factorial(int128 argument)
 {
-  for
+  if argument equals 0 or argument equals 1
   {
-  
+    return 1;
   }
+
+  int128 product = 1;
+
+  for factor in range(argument - 1, 2), step(-1)
+  {
+    product *= factor
+  }
+  
+  return product
 }
