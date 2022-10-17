@@ -1,7 +1,15 @@
-array[int32] sort_array(array[int32] unsorted) 
+array[int32] sort_array(array[int32] unsorted, bool low_to_high) 
 {
-  for int32 i in range(0, unsorted.length), i.step(1)
+  if low_to_high 
   {
-    
+    for int32 i in range(0, unsorted.length - 1), i.step(1)
+    {
+      if unsorted.element(i) > unsorted.element(i + 1)
+      {
+        swap(unsorted.element(i), unsorted(element(i+1)) 
+        {
+        
+        }
+      }
   }
 }
